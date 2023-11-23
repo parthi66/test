@@ -1,0 +1,19 @@
+{
+    "name": "simplexi/greetr",
+    "description": "test",
+    "type": "project",
+    "license": "VITT",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "parthi66",
+            "email": "parthiban@thewholewave.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
